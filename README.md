@@ -1,4 +1,4 @@
-# CV AI Builder Pro
+# CV AI Builder Pro (These images show only 30% of the application)
 
 CV AI Builder Pro is a powerful and intuitive web application that helps users create professional CVs with the assistance of AI. Featuring real-time updates, automatic saving, subscription-based AI capabilities, and a beautiful UI, this tool is perfect for anyone looking to build, manage, and customize multiple CVs effortlessly.
 

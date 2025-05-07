@@ -2,7 +2,7 @@
 
 CV AI Builder Pro is a powerful and intuitive web application that helps users create professional CVs with the assistance of AI. Featuring real-time updates, automatic saving, subscription-based AI capabilities, and a beautiful UI, this tool is perfect for anyone looking to build, manage, and customize multiple CVs effortlessly.
 
-![CV AI Builder Pro Preview](./screenshots/hero.png)
+![CV AI Builder Pro Preview](https://github.com/nguyentansinh123/CV-AI-Builder/blob/94a75bf23fcb054e5b3b8e6942fa1d4bc8a44db2/imagesforgit/resume1.png)
 
 ## 🚀 Features
 
@@ -20,7 +20,7 @@ CV AI Builder Pro is a powerful and intuitive web application that helps users c
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [ShadCN/UI](https://ui.shadcn.com/)
+- **Frontend & BackEnd**: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [ShadCN/UI](https://ui.shadcn.com/),[Prisma](https://www.prisma.io/), [WebHook](https://www.redhat.com/en/topics/automation/what-is-a-webhook) 
 - **Authentication**: [Clerk](https://clerk.dev/)
 - **Database**: [PostgreSQL](https://www.postgresql.org/)
 - **Storage**: [Vercel Blob](https://vercel.com/docs/storage/blob)
@@ -30,13 +30,13 @@ CV AI Builder Pro is a powerful and intuitive web application that helps users c
 
 ## 📷 Screenshots
 
-| Home Page | CV Preview | Add Experience |
+| Home Page | CV Preview | Add Field (1/6) |
 |-----------|------------|----------------|
-| ![Home](./screenshots/1-home.png) | ![Preview](./screenshots/2-preview.png) | ![Experience](./screenshots/3-experience.png) |
+| ![Home]([(https://github.com/nguyentansinh123/CV-AI-Builder/blob/94a75bf23fcb054e5b3b8e6942fa1d4bc8a44db2/imagesforgit/Resume2.png)]) | ![Preview]((https://github.com/nguyentansinh123/CV-AI-Builder/blob/94a75bf23fcb054e5b3b8e6942fa1d4bc8a44db2/imagesforgit/resume5.png)) | ![Experience](https://github.com/nguyentansinh123/CV-AI-Builder/blob/94a75bf23fcb054e5b3b8e6942fa1d4bc8a44db2/imagesforgit/resume7.png) |
 
 | Add Education | Upload Image | AI Assistance |
 |---------------|--------------|---------------|
-| ![Education](./screenshots/4-education.png) | ![Image](./screenshots/5-upload.png) | ![AI](./screenshots/6-ai.png) |
+| ![Education](./screenshots/4-education.png) | ![Image]([./screenshots/5-upload.png](https://github.com/nguyentansinh123/CV-AI-Builder/blob/94a75bf23fcb054e5b3b8e6942fa1d4bc8a44db2/imagesforgit/resume6.png)) | ![AI](./screenshots/6-ai.png) |
 
 | Subscription Status | Stripe Payment | Mobile View |
 |---------------------|----------------|-------------|
